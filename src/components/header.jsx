@@ -12,13 +12,13 @@ function Header() {
         src="https://www.altitudehimalaya.com/media/files/Blog/Food/Most-Popular-Nepalese-Foods.jpeg"
         alt="los"
         height="200"
-        width="200"
+        width="100"
       />
       <h1>Kathmandu Restaurant</h1>
 
-      <p>
+      <h3>
         Kathmandu Restaurant is one of the best Nepalese restaurant in the area
-      </p>
+      </h3>
     </header>
   );
 }
